@@ -1,0 +1,26 @@
+{
+  "name": "jour2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechWebAcademiePromo2026/W-JSC-502-LYN-2-1-mernj2-elliott.ramet-grout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EpitechWebAcademiePromo2026/W-JSC-502-LYN-2-1-mernj2-elliott.ramet-grout/issues"
+  },
+  "homepage": "https://github.com/EpitechWebAcademiePromo2026/W-JSC-502-LYN-2-1-mernj2-elliott.ramet-grout#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  }
+}
